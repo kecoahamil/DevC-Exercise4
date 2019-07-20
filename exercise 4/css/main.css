@@ -1,0 +1,6 @@
+body body {
+    background-image: url("/img/raja ampat.jpeg");
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+  }
